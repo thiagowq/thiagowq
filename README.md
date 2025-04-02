@@ -33,6 +33,22 @@ Me chamo Thiago José da Cruz, tenho 18 anos e sou natural de Minas Gerais. Atua
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://icongr.am/devicon/c-original.svg?size=30&color=currentColor" 
+/>
+ <img
+    align="left"
+    alt="C++"
+    title="C++"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://icongr.am/devicon/cplusplus-original.svg?size=30&color=currentColor" />       
+
 
 <img 
     align="left" 
@@ -51,22 +67,7 @@ Me chamo Thiago José da Cruz, tenho 18 anos e sou natural de Minas Gerais. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left"
-    alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://icongr.am/devicon/c-original.svg?size=30&color=currentColor" 
-/>
 
-  <img
-    align="left"
-    alt="C++"
-    title="C++"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://icongr.am/devicon/cplusplus-original.svg?size=30&color=currentColor" />       
 
 <br/>
 <br/>
