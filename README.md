@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago da Cruz
+# 👨🏾‍💻 Thiago da Cruz
 
 **`Desenvolvedor Front-end`**
 
