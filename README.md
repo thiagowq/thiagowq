@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Thiago da Cruz
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-stack em Formação`**
 
 Me chamo Thiago José da Cruz, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação na UNIFEI. Sou um Jovem entusiasta com paixão pela tecnologia. Minha jornada até agora tem sido marcada por uma sede constante de aprendizado e superação de desafios, estou disposto a contribuir para projetos inovadores que façam a diferença, vamos juntos construir
 [LinkedIn](https://www.linkedin.com/in/thiago-da-cruz-41bb08281/) e [Instagram](https://www.instagram.com/_thiagowq/).
