@@ -37,28 +37,17 @@ Sou movido por curiosidade: gosto de entender como as coisas funcionam por baixo
 
 ---
 
-### 📊 GitHub
+### 📊 Estatísticas
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/Thiagowq?style=for-the-badge&logo=github&logoColor=white&color=7aa2f7&labelColor=1a1b26&label=Seguidores)
-![Estrelas](https://img.shields.io/github/stars/Thiagowq?style=for-the-badge&logo=github&logoColor=white&color=7aa2f7&labelColor=1a1b26&label=Estrelas)
+<img src="./metrics.svg" alt="Estatisticas do GitHub" />
+
+<br/>
+
+<img src="./metrics-langs.svg" alt="Linguagens mais usadas" width="500" />
 
 </div>
-
-<!--
-  📌 CARDS DE ESTATÍSTICAS
-  Depois de subir sua própria instância na Vercel, troque
-  SUA-INSTANCIA.vercel.app pela URL que a Vercel gerar e
-  remova os marcadores de comentário desta seção.
-
-<div align="center">
-
-<img height="180em" src="https://SUA-INSTANCIA.vercel.app/api?username=Thiagowq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" alt="Estatisticas do GitHub" />
-<img height="180em" src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=Thiagowq&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
--->
 
 ---
 
