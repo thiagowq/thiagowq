@@ -1,0 +1,49 @@
+name: Metrics
+
+on:
+  # Atualiza todo dia às 06:00 UTC (03:00 no horário de Brasília)
+  schedule:
+    - cron: "0 6 * * *"
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+  # Roda também a cada push na branch principal
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ── Card principal: perfil, atividade e repositórios ──────────────
+      - name: Estatísticas gerais
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Thiagowq
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          config_display: large
+          plugin_lines: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # ── Card secundário: linguagens mais usadas ───────────────────────
+      - name: Linguagens
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Thiagowq
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 1%
