@@ -29,9 +29,9 @@ Sou movido por curiosidade: gosto de entender como as coisas funcionam por baixo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,java,c&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,java,c&theme=dark" alt="Tecnologias" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,figma&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,docker,vscode,figma&theme=dark" alt="Ferramentas" />
 
 </div>
 
