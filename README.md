@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mim
 
-Me chamo **Thiago José da Cruz**, tenho 19 anos e sou natural de Minas Gerais. Atualmente curso **Sistemas de Informação na UNIFEI**.
+Me chamo **Thiago José da Cruz**, tenho 20 anos e sou natural de Minas Gerais. Atualmente curso **Sistemas de Informação na UNIFEI**.
 
 Sou movido por curiosidade: gosto de entender como as coisas funcionam por baixo do capô e de transformar ideias em produtos que realmente resolvem problemas. Minha jornada tem sido marcada por uma sede constante de aprendizado e pelo gosto por desafios que me tiram da zona de conforto.
 
